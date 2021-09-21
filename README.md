@@ -12,7 +12,7 @@
 <div>
   <a href="https://github.com/bbleite">
   <img height="180em" width="425em" src="https://github-readme-stats.vercel.app/api?username=bbleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="422em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbleite&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="421em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbleite&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  
