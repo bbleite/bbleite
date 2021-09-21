@@ -2,11 +2,10 @@
 
 ## I'm a Husband, Father, Developer, and an Entrepreneur!!
 
-- 🔭 I’m currently working on Evergy's internal web application and my improving my own portfolio
+- 🔭 I’m currently working on Evergy's internal web application and improving my own portfolio
 - 🌱 I’m currently learning Typescript, Redux, Firebase, and a little bit of everything 😁
-- 👯 I’m looking to contribute to open source projects
+- 👯 I’m looking to contribute to open source projects and get my github account going! 🚀
 - ⚡ Fun fact: My last name in Portuguese means milk 🤣
-
 
 
 <div>
